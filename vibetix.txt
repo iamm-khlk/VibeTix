@@ -1,0 +1,47 @@
+📦 concerttix
+├── 📂 public/                   # File yang diakses publik
+│   ├── 📜 index    ✅        # Landing Page (Home)
+│   ├── 📂 events/               # Halaman event
+│   │   ├── 📜 index ✅      # Generate_Search_Page (Daftar Konser)
+│   │   └── 📜 [id].  ✅?      # Dynamic route untuk detail event (detail_concert.html)
+│   └── 📜 about ✅          # About Us The Web and Team + menu" dari footer
+│
+├── 📂 auth/                     # Autentikasi
+│   ├── 📜 login ✅
+│   └── 📜 signup ✅
+│
+├── 📂 user/                     # Area pengguna
+│   ├── 📜 profile   ✅      # Profil_Page
+│   ├── 📂 tickets/              # Manajemen tiket
+│   │   ├── 📜 index ✅      # Daftar tiket
+│   │   └── 📜 [id].html         # Details_Ticket
+│   ├── 📂 cart/
+│   │   └── 📜 index  ✅      # Cart_Page
+│   └── 📂 payment/
+│       ├── 📜 index       ✅ # Payment
+│       └── 📜 confirmation✅ # Payment_Confirmation
+│
+├── 📂 admin/                    # Dashboard admin
+│   └── 📜 index.html     ✅       # Admin_Page
+│
+│
+├── 📂 assets/                   # Resource global
+│   ├── 📂 css/
+│   │   ├── 📜 main.css          # Style global
+│   │   ├── 📜 auth.css          # Style auth page
+│   │   └── 📜 admin.css         # Style admin
+│   ├── 📂 js/
+│   │   ├── 📜 api.js            # Handler API
+│   │   ├── 📜 cart.js           # Logic keranjang
+│   │   └── 📜 auth.js           # Validasi form
+│   └── 📂 images/
+│       ├── 📂 icons/            # SVG/icon
+│       ├── 📂 events/           # Gambar konser
+│       └── 📂 payments/         # Logo pembayaran
+│
+│
+├── 📂 lost/                      # Error Missing Page
+│   ├── 📜 404_page.html     ✅     # show error 404
+│   └── 📜 bootstrap.css          # style 404
+└── 📂 view/ 📜 navbar.php
+
