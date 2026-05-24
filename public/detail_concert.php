@@ -1404,16 +1404,16 @@
         <div class="px-3">
           <h6 class="text-muted mb-3">Follow Us</h6>
           <div class="social-links d-flex justify-content-center gap-4">
-            <a href="https://www.facebook.com/groups/3288439241475430/" class="text-decoration-none" style="color: #8a4fff">
+            <a href="https://www.facebook.com/" class="text-decoration-none" style="color: #8a4fff">
               <i class="bi bi-facebook fs-4"></i>
             </a>
-            <a href="https://www.instagram.com/xtoph.y?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" class="text-decoration-none" style="color: #8a4fff">
+            <a href="https://www.instagram.com/" class="text-decoration-none" style="color: #8a4fff">
               <i class="bi bi-instagram fs-4"></i>
             </a>
-            <a href="https://x.com/home" class="text-decoration-none" style="color: #8a4fff">
+            <a href="https://x.com/" class="text-decoration-none" style="color: #8a4fff">
               <i class="bi bi-twitter-x fs-4"></i>
             </a>
-            <a href="https://www.youtube.com/@xant_san" class="text-decoration-none" style="color: #8a4fff">
+            <a href="https://www.youtube.com/" class="text-decoration-none" style="color: #8a4fff">
               <i class="bi bi-youtube fs-4"></i>
             </a>
           </div>

@@ -862,16 +862,16 @@
     <div class="px-3">
       <h6 class="text-muted mb-3">Follow Us</h6>
       <div class="social-links d-flex justify-content-center gap-4">
-        <a href="https://www.facebook.com/groups/3288439241475430/" class="text-decoration-none" style="color: #8a4fff;">
+        <a href="https://www.facebook.com/" class="text-decoration-none" style="color: #8a4fff;">
           <i class="bi bi-facebook fs-4"></i>
         </a>
-        <a href="https://www.instagram.com/xtoph.y?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" class="text-decoration-none" style="color: #8a4fff;">
+        <a href="https://www.instagram.com/" class="text-decoration-none" style="color: #8a4fff;">
           <i class="bi bi-instagram fs-4"></i>
         </a>
-        <a href="https://x.com/home" class="text-decoration-none" style="color: #8a4fff;">
+        <a href="https://x.com/" class="text-decoration-none" style="color: #8a4fff;">
           <i class="bi bi-twitter-x fs-4"></i>
         </a>
-        <a href="https://www.youtube.com/@xant_san" class="text-decoration-none" style="color: #8a4fff;">
+        <a href="https://www.youtube.com/" class="text-decoration-none" style="color: #8a4fff;">
           <i class="bi bi-youtube fs-4"></i>
         </a>
       </div>
@@ -1068,16 +1068,16 @@
             </h3>
             <p class="text-muted mb-4">The easiest way to buy tickets for your favorite concerts and events worldwide.</p>
             <div class="d-flex gap-3 social-icons">
-              <a href="https://www.facebook.com/groups/3288439241475430/" class="social-icon d-flex align-items-center justify-content-center rounded-circle" style="width: 40px; height: 40px; background: rgba(138, 79, 255, 0.1); transition: all 0.3s ease;">
+              <a href="https://www.facebook.com/" class="social-icon d-flex align-items-center justify-content-center rounded-circle" style="width: 40px; height: 40px; background: rgba(138, 79, 255, 0.1); transition: all 0.3s ease;">
                 <i class="bi bi-facebook text-purple"></i>
               </a>
-              <a href="https://www.instagram.com/xtoph.y?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" class="social-icon d-flex align-items-center justify-content-center rounded-circle" style="width: 40px; height: 40px; background: rgba(138, 79, 255, 0.1); transition: all 0.3s ease;">
+              <a href="https://www.instagram.com/" class="social-icon d-flex align-items-center justify-content-center rounded-circle" style="width: 40px; height: 40px; background: rgba(138, 79, 255, 0.1); transition: all 0.3s ease;">
                 <i class="bi bi-instagram text-purple"></i>
               </a>
-              <a href="https://x.com/home" class="social-icon d-flex align-items-center justify-content-center rounded-circle" style="width: 40px; height: 40px; background: rgba(138, 79, 255, 0.1); transition: all 0.3s ease;">
+              <a href="https://x.com/" class="social-icon d-flex align-items-center justify-content-center rounded-circle" style="width: 40px; height: 40px; background: rgba(138, 79, 255, 0.1); transition: all 0.3s ease;">
                 <i class="bi bi-twitter-x text-purple"></i>
               </a>
-              <a href="https://www.youtube.com/@xant_san" class="social-icon d-flex align-items-center justify-content-center rounded-circle" style="width: 40px; height: 40px; background: rgba(138, 79, 255, 0.1); transition: all 0.3s ease;">
+              <a href="https://www.youtube.com/" class="social-icon d-flex align-items-center justify-content-center rounded-circle" style="width: 40px; height: 40px; background: rgba(138, 79, 255, 0.1); transition: all 0.3s ease;">
                 <i class="bi bi-youtube text-purple"></i>
               </a>
             </div>

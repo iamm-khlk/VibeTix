@@ -1707,14 +1707,14 @@ $locations = $pdo->query("SELECT DISTINCT City FROM concerts ORDER BY City")->fe
               <p class="text-muted mb-4">The easiest way to buy tickets for your favorite concerts and events worldwide.</p>
               <div class="d-flex gap-3 social-icons">
                 <a
-                  href="https://www.facebook.com/groups/3288439241475430/"
+                  href="https://www.facebook.com/"
                   class="social-icon d-flex align-items-center justify-content-center rounded-circle"
                   style="width: 40px; height: 40px; background: rgba(138, 79, 255, 0.1); transition: all 0.3s ease"
                 >
                   <i class="bi bi-facebook text-purple"></i>
                 </a>
                 <a
-                  href="https://www.instagram.com/xtoph.y?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+                  href="https://www.instagram.com/"
                   class="social-icon d-flex align-items-center justify-content-center rounded-circle"
                   style="width: 40px; height: 40px; background: rgba(138, 79, 255, 0.1); transition: all 0.3s ease"
                 >
@@ -1724,7 +1724,7 @@ $locations = $pdo->query("SELECT DISTINCT City FROM concerts ORDER BY City")->fe
                   <i class="bi bi-twitter-x text-purple"></i>
                 </a>
                 <a
-                  href="https://www.youtube.com/@xant_san"
+                  href="https://www.youtube.com/"
                   class="social-icon d-flex align-items-center justify-content-center rounded-circle"
                   style="width: 40px; height: 40px; background: rgba(138, 79, 255, 0.1); transition: all 0.3s ease"
                 >
