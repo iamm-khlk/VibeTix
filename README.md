@@ -35,8 +35,9 @@ VibeTix adalah platform web untuk pemesanan tiket konser secara online. Dibangun
 
 1. Clone repositori:
    ```bash
-   git clone https://github.com/xantophy/Concert-Tix.git
-   cd Concert-Tix
+   git clone https://github.com/iamm-khlk/VibeTix.git
+   cd VibeTix
+   
    
 2. Import file SQL:
    - Buka phpMyAdmin melalui browser:
@@ -44,13 +45,13 @@ VibeTix adalah platform web untuk pemesanan tiket konser secara online. Dibangun
    - Buat database baru dengan nama:
      vibe_tix
    - Import file:
-     Database/vibe_tix.sql
+     Database/vibetix.sql
 
 3. Jalankan di server lokal:
    - Salin folder proyek ke direktori XAMPP, contoh:
-     C:\xampp\htdocs\Vibe-Tix
+     C:\xampp\htdocs\VibeTix
    - Akses melalui browser:
-     http://localhost/Vibe-Tix/public/
+     http://localhost/VibeTix/public/
 
 🧑‍💻 Kontributor
 - Ilham Khalik
